@@ -6,7 +6,8 @@
 
 ## **Roadmap**
 
-- [ ] Share files across **ANY** two computers
+- [x] Share files across **ANY** two computers
 - [ ] End-to-End Encryption
-- [ ] Cross-platform
-- [ ] Mars
+- [ ] Cross-platform Support
+- [ ] Transfer multiple files simultaneously
+- [ ] Continue transferring even after interception
