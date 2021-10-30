@@ -38,3 +38,11 @@ TO DO
 ### **Linux**
 
 TO DO
+
+## **Usage**
+
+Using ``ufo`` is easy:
+
+```cmd
+ufo beam [FOLDER/FILE]
+```
